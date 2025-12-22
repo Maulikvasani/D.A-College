@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/D.A-College/static/css/main.72871fcd.css",
+    "main.js": "/D.A-College/static/js/main.3b8e4fad.js",
+    "index.html": "/D.A-College/index.html",
+    "main.72871fcd.css.map": "/D.A-College/static/css/main.72871fcd.css.map",
+    "main.3b8e4fad.js.map": "/D.A-College/static/js/main.3b8e4fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72871fcd.css",
+    "static/js/main.3b8e4fad.js"
+  ]
+}
