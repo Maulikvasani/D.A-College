@@ -16,8 +16,12 @@ app.use(
 app.use(express.json()); //to convert request data to json
 
 app.get("/", (req, res) => {
-  res.send("Hello 👋 I am Working Fine 🚀");
+  res.status(200).json({
+    success: true,
+    message: "DA College Backend is LIVE 🚀",
+  });
 });
+
 
 app.use("/media", express.static(path.join(__dirname, "media")));
 
